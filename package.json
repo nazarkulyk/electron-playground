@@ -1,0 +1,17 @@
+{
+    "name": "nasi-swarm",
+    "version": "0.1.0",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron -titlebarAppearsTransparent=YES ."
+    },
+    "keywords": ["Electron", "quick", "start", "tutorial", "demo"],
+    "dependencies": {},
+    "devDependencies": {
+        "eslint": "^4.12.1",
+        "extract-zip": "^1.6.6",
+        "electron": "~1.8.2-beta.3"
+    },
+    "author": "Nazar Kulyk",
+    "license": "CC0-1.0"
+}
